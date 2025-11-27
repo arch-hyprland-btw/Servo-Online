@@ -1,5 +1,5 @@
 ## Servo-Online
 
-POWER -> VBUS
-GND -> GND
-DATA -> GPIO28
+POWER -> VBUS\n
+GND -> GND\n
+DATA -> GPIO28\n
